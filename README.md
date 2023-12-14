@@ -17,6 +17,8 @@
     <div>Spring Boot 프로젝트 생성 후 Application 실행 시 발생한 오류</div>
     <div>23.11.20</div>
 </td>
+</tr>
+<tr>
 <td>
     <a href="https://build-enough.tistory.com/342">
         <img width="100%" src="/img/error2.png"/><br/>
@@ -25,6 +27,8 @@
     <div>데이터베이스에 연결 시 필요한 정보가 없기 때문에 발생하는 문제로 프로젝트 초기에 발생</div>
     <div>23.11.20</div>
 </td>
+</tr>
+<tr>
 <td>
     <a href="https://build-enough.tistory.com/191">
         <img width="100%" src="/img/OOP.png"/><br/>
@@ -33,5 +37,6 @@
     <div>객체지향의 정리본</div>
     <div>23.10.22</div>
 </td>
+</tr>
 </tr>
 </tbody></table>
