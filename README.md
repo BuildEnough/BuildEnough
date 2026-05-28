@@ -1,6 +1,13 @@
-![](./profile-3d-contrib/profile-green-animate.svg)
+## 중고 거래 사이트
+[![중고거래프로젝트](img/중고거래프로젝트.png)](http://board.buildenough.shop)
 
-# study
+## 물류 관리 사이트
+[![물류프로젝트](img/물류프로젝트.png)](http://buildenough.shop)
+
+## 저스클린 청소업체 사이트
+[![저스클린](img/저스클린.png)](https://buildenough.github.io/justclean/#home)
+
+---
 
 ![Java](https://img.shields.io/badge/Java-Study-orange)
 ![Python](https://img.shields.io/badge/Python-Study-blue)
@@ -18,7 +25,6 @@
 
 ---
 
-## Repository Overview
 
 | 분류 | 바로가기 | 설명 |
 |------|----------|------|
@@ -37,22 +43,4 @@
 
 ---
 
-## Categories
-
-### Language
-- [Java](https://github.com/BuildEnough/study/tree/master/java)
-- [Python](https://github.com/BuildEnough/study/tree/master/python)
-- [JavaScript](https://github.com/BuildEnough/study/tree/master/javascript)
-
-### Framework / Library
-- [Spring](https://github.com/BuildEnough/study/tree/master/spring)
-- [Django](https://github.com/BuildEnough/study/tree/master/Django)
-- [React](https://github.com/BuildEnough/study/tree/master/react)
-- [Android](https://github.com/BuildEnough/study/tree/master/android)
-
-### CS / Tools / Others
-- [ComputerScience](https://github.com/BuildEnough/study/tree/master/ComputerScience)
-- [DB](https://github.com/BuildEnough/study/tree/master/DB)
-- [Git](https://github.com/BuildEnough/study/tree/master/git)
-- [HTML / CSS](https://github.com/BuildEnough/study/tree/master/htmlCss)
-- [Edu](https://github.com/BuildEnough/study/tree/master/edu)
+![](./profile-3d-contrib/profile-green-animate.svg)
