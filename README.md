@@ -50,4 +50,4 @@ Java / Spring 기반 웹 백엔드 개발을 중심으로 공부하고 프로젝
 
 ## GitHub Activity
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" />
